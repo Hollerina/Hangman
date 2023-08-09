@@ -1,2 +1,2 @@
 # Hangman
-Playable Hangman using tkinter as a python GUI
+A python project which involves learning how to use a python GUI to create Hangman.
